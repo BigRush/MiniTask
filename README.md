@@ -1,2 +1,2 @@
 # MiniTask
-Simple task for bash scripting
+Mini task for bash scripting

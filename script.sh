@@ -74,9 +74,9 @@ max_number="${number_array[0]}"
 # for each element of the array iterate with variable named 'i'.
 for i in ${number_array[*]}; do
 
-  # if $i is greater than OR equal to $min_number,
-  # set the $min_number to $i
-  if [[ $i -ge $min_number ]]; then
+  # if $i is greater than OR equal to $max_number,
+  # set the $max_number to $i
+  if [[ $i -ge $max_number ]]; then
     max_number=$i
   fi
 done
