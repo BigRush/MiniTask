@@ -9,8 +9,8 @@
 # and avg of the array elements
 ################################################################################
 
-# prompt the user a message
-echo "Please enter a positive numbers, press enter with no value when you're done: "
+# prompt the user with a message
+echo "Please enter a positive number, press enter with no value when you're done: "
 
 # the user's input will be saved in a variable named 'number'
 read number
