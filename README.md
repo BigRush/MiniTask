@@ -1,2 +1,9 @@
 # MiniTask
-Mini task for bash scripting
+Mini task for bash scripting:
+
+Take a list of user inputs, use a while loop to check if there are negative
+numbers and if so, exit the loop.
+Insert the input values as element into an array and use a for loop to
+iterate through the array finding the min, max, and avg of the array elements.
+
+Check this [script](https://github.com/BigRush/MiniTask/blob/master/script.sh) for a solution.
